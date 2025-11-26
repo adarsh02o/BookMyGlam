@@ -1,0 +1,17 @@
+{
+  "name": "bookmyglam",
+  "version": "1.0.0",
+  "description": "BookMyGlam is a web application that allows users to book beauty services at home.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
